@@ -1,0 +1,16 @@
+# Models
+emotion-classifier/
+emotion-classifier-model/
+
+# Checkpoints
+checkpoint*/
+
+# Zips
+*.zip
+
+# PyTorch
+*.pt
+*.pth
+
+# Safetensors
+*.safetensors
